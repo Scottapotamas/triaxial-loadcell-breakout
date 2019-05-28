@@ -10,10 +10,10 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "2019-05-14"
-Rev ""
-Comp ""
+Title "Triaxial Loadcell Breakout"
+Date "2019-05-28"
+Rev "V1.0"
+Comp "Scott Rapson"
 Comment1 ""
 Comment2 ""
 Comment3 ""
